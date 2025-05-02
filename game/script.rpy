@@ -44,6 +44,7 @@ label start:
     e "baikhlah. Aku serahkan kepadamu, Mpu Bharada"
 
     #show pembagian kerajaan
+    e "faisal jancok"
     
 
 
