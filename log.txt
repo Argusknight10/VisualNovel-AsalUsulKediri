@@ -1,315 +1,26 @@
-2025-05-05 08:16:47 UTC
+2025-05-05 08:54:27 UTC
 Windows-10-10.0.26100
 Ren'Py 8.3.7.25031702
 
 Early init took 0.04s
-Loading error handling took 0.04s
-Loading script took 0.58s
+Loading error handling took 0.03s
+Loading script took 0.57s
 Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
-
-File "game/script.rpy", line 21: choice menuitem expects a non-empty block.
-    "Langkah Sang Prabu":
-                         ^
-
-File "game/script.rpy", line 60: expected statement.
-    "Perahu":
-            ^
-
-File "game/script.rpy", line 62: expected statement.
-    "Terbang":
-             ^
-
-File "game/script.rpy", line 90: expected statement.
-    "Tujuh Mata Air":
-                    ^
-
-File "game/script.rpy", line 92: expected statement.
-    "Awan":
-          ^
-
-File "game/script.rpy", line 113: expected statement.
-    "Bimbang":
-             ^
-
-File "game/script.rpy", line 115: expected statement.
-    "Setuju":
-            ^
-
-File "game/script.rpy", line 152: expected statement.
-    "Pasukan Seadanya":
-                      ^
-
-File "game/script.rpy", line 154: expected statement.
-    "Mencari Aliansi":
-                     ^
-
-File "game/script.rpy", line 178: expected statement.
-    "Langsung Lanjut Perang":
-                            ^
-
-File "game/script.rpy", line 180: expected statement.
-    "Tampilkan Proses Pemakaman":
-                                ^
-
-File "game/script.rpy", line 197: expected statement.
-    "Langsung Beri Harta":
-                         ^
-
-File "game/script.rpy", line 199: expected statement.
-    "Upacara Terlebih Dahulu":
-                             ^
-
-File "game/script.rpy", line 215: expected statement.
-    "Melalui Kepala Desa":
-                         ^
-
-File "game/script.rpy", line 217: expected statement.
-    "Langsung ke Rumah":
-                       ^
-DPI scale factor: 1.250000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Interface start took 0.74s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4050 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 572.83'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1724, 970) drawable=(1724, 970)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 242.59s
-Loading error handling took 0.02s
-Loading script took 0.48s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 59: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "Metode Perjalanan"
-                       ^
-
-File "game/script.rpy", line 89: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "Sumber Air"
-                ^
-
-File "game/script.rpy", line 112: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "Metode Persetujuan"
-                        ^
-
-File "game/script.rpy", line 151: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "Cara Mempersiapkan Perang"
-                               ^
-
-File "game/script.rpy", line 177: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "Pemakaman"
-               ^
-
-File "game/script.rpy", line 196: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "Bentuk Anugerah"
-                     ^
-
-File "game/script.rpy", line 214: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "Metode Pemberian"
-                      ^
-DPI scale factor: 1.250000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Interface start took 0.34s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4050 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 572.83'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1724, 970) drawable=(1724, 970)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 274.41s
-Loading error handling took 0.02s
-Loading script took 0.48s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 60: expected statement.
-    "Perahu":
-            ^
-
-File "game/script.rpy", line 62: expected statement.
-    "Terbang":
-             ^
-
-File "game/script.rpy", line 89: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "Sumber Air"
-                ^
-
-File "game/script.rpy", line 112: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "Metode Persetujuan"
-                        ^
-
-File "game/script.rpy", line 151: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "Cara Mempersiapkan Perang"
-                               ^
-
-File "game/script.rpy", line 177: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "Pemakaman"
-               ^
-
-File "game/script.rpy", line 196: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "Bentuk Anugerah"
-                     ^
-
-File "game/script.rpy", line 214: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
-    "Metode Pemberian"
-                      ^
-DPI scale factor: 1.250000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Interface start took 0.34s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4050 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 572.83'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1724, 970) drawable=(1724, 970)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 432.79s
-Loading error handling took 0.03s
-Loading script took 0.48s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 21: expected ':' not found.
-    menu "Langkah Sang Prabu":
-         ^
-
-File "game/script.rpy", line 51: expected ':' not found.
-    menu "Metode Perjalanan":
-         ^
-
-File "game/script.rpy", line 75: expected ':' not found.
-    menu "Sumber Air":
-         ^
-
-File "game/script.rpy", line 94: expected ':' not found.
-    menu "Metode Persetujuan":
-         ^
-
-File "game/script.rpy", line 125: expected ':' not found.
-    menu "Cara Mempersiapkan Perang":
-         ^
-
-File "game/script.rpy", line 146: expected ':' not found.
-    menu "Pemakaman":
-         ^
-
-File "game/script.rpy", line 162: expected ':' not found.
-    menu "Bentuk Anugerah":
-         ^
-
-File "game/script.rpy", line 177: expected ':' not found.
-    menu "Metode Pemberian":
-         ^
-DPI scale factor: 1.250000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Interface start took 0.35s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4050 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 572.83'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1724, 970) drawable=(1724, 970)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 435.10s
-Loading error handling took 0.02s
-Loading script took 0.49s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 21: expected ':' not found.
-    menu "Langkah Sang Prabu":
-         ^
-
-File "game/script.rpy", line 51: expected ':' not found.
-    menu "Metode Perjalanan":
-         ^
-
-File "game/script.rpy", line 75: expected ':' not found.
-    menu "Sumber Air":
-         ^
-
-File "game/script.rpy", line 94: expected ':' not found.
-    menu "Metode Persetujuan":
-         ^
-
-File "game/script.rpy", line 125: expected ':' not found.
-    menu "Cara Mempersiapkan Perang":
-         ^
-
-File "game/script.rpy", line 146: expected ':' not found.
-    menu "Pemakaman":
-         ^
-
-File "game/script.rpy", line 162: expected ':' not found.
-    menu "Bentuk Anugerah":
-         ^
-
-File "game/script.rpy", line 177: expected ':' not found.
-    menu "Metode Pemberian":
-         ^
-DPI scale factor: 1.250000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Interface start took 0.35s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1200)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4050 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 572.83'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1724, 970) drawable=(1724, 970)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 778.72s
-Loading error handling took 0.02s
-Loading script took 0.50s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.05s
+Running init code took 0.06s
 Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
+Reloading save slot metadata took 0.02s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\ARYA BAGUS PERMONO\\AppData\\Roaming/RenPy/backups\\Asal Usul Kediri':
 Dump and make backups took 0.03s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.03s
+Initial gc took 0.02s
 DPI scale factor: 1.250000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.18s
+Creating interface object took 0.20s
 Cleaning stores took 0.00s
 Init translation took 0.00s
 Build styles took 0.00s
@@ -318,9 +29,9 @@ Analyze screens took 0.01s
 Save screen analysis took 0.01s
 Prepare screens took 0.04s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
+Save bytecode. took 0.02s
 Running _start took 0.00s
-Interface start took 0.30s
+Interface start took 0.19s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1200)
@@ -332,10 +43,3 @@ Version: b'4.6.0 NVIDIA 572.83'
 Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1724, 970) drawable=(1724, 970)
 Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.02s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
