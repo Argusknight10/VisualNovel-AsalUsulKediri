@@ -2,9 +2,37 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 5: expected statement.
-    .
-    ^
+File "game/script.rpy", line 21: expected ':' not found.
+    menu "Langkah Sang Prabu":
+         ^
+
+File "game/script.rpy", line 51: expected ':' not found.
+    menu "Metode Perjalanan":
+         ^
+
+File "game/script.rpy", line 75: expected ':' not found.
+    menu "Sumber Air":
+         ^
+
+File "game/script.rpy", line 94: expected ':' not found.
+    menu "Metode Persetujuan":
+         ^
+
+File "game/script.rpy", line 125: expected ':' not found.
+    menu "Cara Mempersiapkan Perang":
+         ^
+
+File "game/script.rpy", line 146: expected ':' not found.
+    menu "Pemakaman":
+         ^
+
+File "game/script.rpy", line 162: expected ':' not found.
+    menu "Bentuk Anugerah":
+         ^
+
+File "game/script.rpy", line 177: expected ':' not found.
+    menu "Metode Pemberian":
+         ^
 
 Ren'Py Version: Ren'Py 8.3.7.25031702
-Mon Apr 28 18:18:21 2025
+Mon May  5 15:24:03 2025
